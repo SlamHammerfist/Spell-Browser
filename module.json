@@ -1,0 +1,35 @@
+{
+  "id": "spell-browser",
+  "title": "Spell Browser",
+  "description": "Adds a button to the DnD5e character sheet Spells tab that opens the Compendium Browser filtered to spellcasters spells list.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Rod",
+      "url": "",
+      "discord": ""
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.2.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/spell-learning-rules.js"
+  ],
+  "styles": [
+    "styles/spell-browser.css"
+  ]
+}
