@@ -27,7 +27,6 @@
   },
   "esmodules": [
     "scripts/main.js",
-    "scripts/spell-learning-rules.js"
   ],
   "styles": [
     "styles/spell-browser.css"
@@ -40,3 +39,4 @@
   "bugs": "https://github.com/SlamHammerfist/Spell-Browser/issues",
   "license": "MIT"
 }
+
