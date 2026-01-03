@@ -1,6 +1,6 @@
 # Spellbook Manager
 
-Spellbook Manager is a lightweight, intuitive enhancement for the DnD5e Compendium Browser that streamlines how spellcasters learn new spells. It adds clean UI tools, automatic known‑spell detection, and class‑aware spell selection — all without modifying system data or overriding core sheets.
+Spellbook Manager is a lightweight, intuitive enhancement for the DnD5e Compendium Browser for FoundryVTT that streamlines how spellcasters learn new spells. It adds clean UI tools, automatic known‑spell detection, and class‑aware spell selection — all without modifying system data or overriding core sheets.
 
 ---
 
@@ -46,3 +46,4 @@ Spellbook Manager is a lightweight, intuitive enhancement for the DnD5e Compendi
 
 ## 📄 License
 MIT License — free to use, modify, and extend.
+
