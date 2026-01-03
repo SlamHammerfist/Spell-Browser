@@ -47,3 +47,4 @@ Spellbook Manager is a lightweight, intuitive enhancement for the DnD5e Compendi
 ## 📄 License
 MIT License — free to use, modify, and extend.
 
+
